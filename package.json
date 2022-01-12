@@ -1,0 +1,11 @@
+{
+  "name": "goldenhour",
+  "version": "1.0.0",
+  "description": "API that returns the golden hour for a location.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
